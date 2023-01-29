@@ -1,0 +1,2 @@
+# clickTestWithQTest
+QT TDD TEST
